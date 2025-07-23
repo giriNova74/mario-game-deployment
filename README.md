@@ -1,4 +1,8 @@
 # 🎮 Super Mario Game Deployment Using Kubernetes & Terraform on AWS
+---
+![Super Mario](./Mario.png)
+
+---
 
 ## Relive the Magic of 90s Gaming – Now on the Cloud!
 
